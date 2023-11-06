@@ -130,7 +130,7 @@ with tab4:
     st.write('8.Prince')
 with tab5:
     st.subheader('Our Email')
-    st.markdown('askclickwise@gmail.com')wq
+    st.markdown('askclickwise@gmail.com')
 
 
 
